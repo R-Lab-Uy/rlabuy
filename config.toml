@@ -1,5 +1,5 @@
 title = "R Lab Uy"
-baseURL = "https://rlabuy.github.io/"
+baseURL = "https://r-lab-uy.github.io/rlabuy.github.io/"
 languageCode = "es-es"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
