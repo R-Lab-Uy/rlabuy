@@ -7,7 +7,8 @@ tags = ["personal", "homepage", "portfolio"]
 # googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 enableEmoji = true
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 ## Generic theme parameters:
 [Params]
   author = "R Lab Uy"
