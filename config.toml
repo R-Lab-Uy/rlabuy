@@ -1,6 +1,6 @@
 title = "R Lab Uy"
-baseURL = "https://r-lab-uy.github.io/rlabuy.github.io/"
-languageCode = "es-es"
+baseURL = "R-Lab-Uy"
+languageCode = "en-En"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
 # canonifyURLS = true
@@ -9,6 +9,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
+
+
 ## Generic theme parameters:
 [Params]
   author = "R Lab Uy"
