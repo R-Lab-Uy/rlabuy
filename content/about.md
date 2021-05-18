@@ -6,7 +6,7 @@ draft = false
 
 ## And [here's my repo!](https://github.com/kdevo/osprey-delight)
 
-Osprey **De**light is a sugar-free version of the [awesome Osprey theme](https://github.com/tomanistor/osprey) by [Toma Nistor](https://tomanistor.com/) for [Hugo](https://gohugo.io/).
+Acá podés encontrar el portfolio con los proyectos que venimos trabajando: [ech](https://github.com/calcita/ech), [geouy](https://tomanistor.com/),  [popuy](https://gohugo.io/).
 
 It tastes a bit different than the original (hence the "light" in the name) but also adds some new functionality -- hopefully to your **delight**.
 
