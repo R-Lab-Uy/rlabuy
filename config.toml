@@ -22,14 +22,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
   logoSmall = "favicon.png"
   favicon = "favicon.png"
-  opengraphImage = "/images/osprey-delight.png"
+  opengraphImage = "/images/geouy_logo_b.png"
   googleTagManager = ""
   # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
   #   This file will only contain a redirect directive if this switch is enabled (recommended, since this is a one-page theme).
   enforceSinglePage = true
   # [bool] Will generate copyright notice in footer for your site.
-  copyright = true
+  copyright = false
   # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
   # credit = false
@@ -93,5 +93,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Use icon here to neatly back reference an external site/blog/whatever:
   pre = "<i class='icon icon-link-ext'></i>&nbsp;"
   name = ""
-  url  = "https://pyotek.dev"
+  url  = "https://github.com/rlabuy"
   weight = 4
