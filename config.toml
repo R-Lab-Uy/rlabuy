@@ -15,14 +15,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   author = "R Lab Uy"
   email = "rlabuy@protonmail.com"
   description = "R Lab Uy Website"
-  tagline = "A team to R program you..."
-  logoBig = "/images/osprey-delight-logo.png"
+  tagline = "A team programming R solutions"
+  logoBig = "/images/logo_rlabuy.png"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
   logoSmall = "favicon.png"
   favicon = "favicon.png"
-  opengraphImage = "/images/geouy_logo_b.png"
+  opengraphImage = "/images/logo_rlabuy.png"
   googleTagManager = ""
   # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # [str] Link to your LinkedIn.
   linkedin = ""
   # [str] Link to your GitHub.
-  github = "https://github.com/rlabuy/"
+  github = "https://github.com/R-Lab-Uy"
   # [str] Link to your Facebook.
   # facebook = ""
   # [str] Link to your Instagram.
@@ -93,5 +93,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Use icon here to neatly back reference an external site/blog/whatever:
   pre = "<i class='icon icon-link-ext'></i>&nbsp;"
   name = ""
-  url  = "https://github.com/rlabuy"
+  url  = "https://github.com/R-Lab-Uy"
   weight = 4
