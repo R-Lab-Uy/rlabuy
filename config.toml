@@ -1,5 +1,5 @@
 title = "R Lab Uy"
-baseURL = "https://rlabuy.rbind.io/"
+baseURL = "https://rlabuy.netlify.app/"
 languageCode = "en-En"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
