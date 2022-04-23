@@ -1,8 +1,8 @@
-baseURL = "https://rlabuy.netlify.app/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio-hugo"
-title = "R Lab Uy"
+theme = "portio"
+title = "Portio"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -17,11 +17,11 @@ name = "Service"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Projects"
+name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Courses"
+name = "Resume"
 url = "#resume"
 weight = 5
 [[menu.main]]
@@ -39,7 +39,7 @@ weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About us"
+name = "About me"
 url = "about"
 weight = 1
 [[menu.sitemap]]
@@ -58,15 +58,15 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = ""
-footerLogo = "/images/logo_rlabuy.png"
+copyright = "All right reserved copyright © Portio 2020"
+footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Uruguay"
-email = "rlabuy@protonmail.com"
+address = "23 Khan Niketon, Grand Street, NYK."
+email = "hello@example.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(448) 833 5272 332"
 
@@ -78,19 +78,18 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-github-square"
-url = "https://github.com/R-Lab-Uy"
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/"
 weight = 2
 [[params.social]]
-icon = "fa-gitlab-square"
-url = "https://www.gitlab.com/"
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
-
