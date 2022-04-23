@@ -1,7 +1,7 @@
-baseURL = "https://rlabuy.netlify.app/"
+baseURL = "https://www.example.com/"
 languageCode = "en-us"
-title = "R Lab Uy"
-themesDir = "themes"
+title = "Hugo Hero Theme"
+themesDir = "../.."
 theme = "hugo-hero-theme"
 
 [module]
@@ -22,8 +22,8 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "A team programming R solutions"
-    meta_og_title = "R Lab Uy"
+    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_title = "Hugo Hero Theme"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
@@ -48,7 +48,7 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
-    name = "Projects"
+    name = "History"
     url = "/history/"
     weight = 3
 
@@ -60,4 +60,3 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
-
