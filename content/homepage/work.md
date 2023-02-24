@@ -1,7 +1,7 @@
 ---
 title: 'We Help Business Grow'
 weight: 1
-background: 'images/sai-kiran-anagani-Tjbk79TARiE-unsplash.jpg'
+background: 'images/coding.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
