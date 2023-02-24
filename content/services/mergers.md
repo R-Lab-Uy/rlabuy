@@ -1,11 +1,11 @@
 ---
-title: 'Mergers'
+title: 'Cursos'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/service-icon-44.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Cursos básicos y avanzados'
+heroSubHeading: '¿Te interesa aprender o profundizar en R/RStudio? ¿Te interesa ofrecerlo en tu institución?'
 heroBackground: 'services/service2.jpg'
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: 'Business Advisory'
+title: 'Paquetes'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: 'services/service-icon-22.png'
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'Paquetes/Librerías'
+heroSubHeading: '¿Necesitás una solución a la medida de tu organización?'
 heroBackground: 'services/service2.jpg'
 ---
 
