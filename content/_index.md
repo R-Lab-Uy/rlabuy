@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
-heroHeading: 'RLabUy - A team programming R solutions'
-heroSubHeading: 'RLabUy is a team programming R solutions such shiny apps, website page, R courses.' 
-heroBackground: 'images/minimalist-map.jpg'
+heroHeading: 'RLabUy'
+heroSubHeading: 'Somos un equipo que programa soluciones en R' 
+heroBackground: 'static/minimalist-map.jpg'
 ---

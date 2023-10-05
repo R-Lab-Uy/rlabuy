@@ -13,16 +13,16 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "static/favicon-32x32.png"
+    mobile = "static/favicon.png"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "static/favicon16.png"
+    desktop = "static/favicon.png"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "RLabUy"
 
   [params.homepage_meta_tags]
-    meta_description = "A team programming R solutions"
+    meta_description = "static/rlabuy_logo2.png"
     meta_og_title = "R Lab Uy"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"

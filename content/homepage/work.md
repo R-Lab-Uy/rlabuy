@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Te ayudamos a que crezca tu proyecto'
 weight: 1
-background: 'images/coding.jpg'
-button: 'Our Work'
+background: 'services/caspar-camille-rubin-0qvBNep1Y04-unsplash.jpg'
+button: 'Nuestro trabajo'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Realizamos una solución a tu medida.
