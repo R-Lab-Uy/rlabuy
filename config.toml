@@ -13,10 +13,10 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "static/favicon.png"
+    mobile = "static/favicon16.png"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "static/favicon.png"
+    desktop = "static/favicon16.png"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "RLabUy"
